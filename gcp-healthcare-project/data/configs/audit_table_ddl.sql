@@ -5,4 +5,4 @@ CREATE TABLE avd-databricks-demo.temp_dataset.audit_log (
     record_count INT64,
     load_timestamp TIMESTAMP,
     status STRING
-);
+);;
